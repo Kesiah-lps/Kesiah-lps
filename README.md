@@ -6,7 +6,7 @@ Ingénieure en formation à l'ENSC, intéressée par la gestion d'actifs et le r
 Première expérience chez Waystone (Luxembourg).
 
 ## Projets
-- 📊 [Portfolio performance analysis](lien) : analyse du S&P 500 (2014-2017), Python, pandas
+- 📊 [Portfolio performance analysis](https://github.com/Kesiah-lps/financial-risk-analytics) : analyse du S&P 500 (2014-2017), Python, pandas
 - ⚠️ [Financial risk analytics](lien) : VaR / CVaR et backtesting
 
 ## Compétences
