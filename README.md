@@ -1,16 +1,16 @@
-## Hi there 👋
+# Kesiah | Étudiante ingénieure ENSC (2A)
+Informatique & finance de marché · Recherche de stage 2027 en risk / data (Luxembourg, France)
 
-<!--
-**Kesiah-lps/Kesiah-lps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos
+Ingénieure en formation à l'ENSC, intéressée par la gestion d'actifs et le risk management.
+Première expérience chez Waystone (Luxembourg).
 
-Here are some ideas to get you started:
+## Projets
+- 📊 [Portfolio performance analysis](lien) : analyse du S&P 500 (2014-2017), Python, pandas
+- ⚠️ [Financial risk analytics](lien) : VaR / CVaR et backtesting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+Python · pandas · SQL · Excel · scikit-learn
+
+## Contact
+LinkedIn : www.linkedin.com/in/kesiah-lopes · Email : lopeskesiah@gmail.com
