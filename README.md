@@ -1,8 +1,8 @@
-# Kesiah | Étudiante ingénieure ENSC (2A)
+# Kesiah | Étudiant ingénieur ENSC (2A)
 Informatique & finance de marché · Recherche de stage 2027 en risk / data (Luxembourg, France)
 
 ## À propos
-Ingénieure en formation à l'ENSC, intéressée par la gestion d'actifs et le risk management.
+Ingénieur en formation à l'ENSC, intéressé par la gestion d'actifs et le risk management.
 Première expérience chez Waystone (Luxembourg).
 
 ## Projets
