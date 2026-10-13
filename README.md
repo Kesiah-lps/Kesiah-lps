@@ -1,15 +1,14 @@
-# Kesiah | Étudiant ingénieur ENSC (2A)
-Informatique & finance de marché · Recherche de stage 2027 en risk / data (Luxembourg, France)
+# Kesiah Lopes | Engineering Student at ENSC
+Engineering student at ENSC Bordeaux INP (2nd year), interested in financial markets, quantitative analysis, and risk management.
 
-## À propos
-Ingénieur en formation à l'ENSC, intéressé par la gestion d'actifs et le risk management.
-Première expérience chez Waystone (Luxembourg).
+Currently building personal projects focused on financial data analysis, portfolio performance, and risk measurement using Python.
 
-## Projets
-- 📊 [Portfolio performance analysis](https://github.com/Kesiah-lps/portfolio-performance-analysis-S-P-500-2014-2017) : analyse du S&P 500 (2014-2017), Python, pandas
+Seeking a 2027 internship in Risk Management / Data Analysis in Luxembourg or France.
+## Projects
+- 📊 [Portfolio performance analysis](https://github.com/Kesiah-lps/portfolio-performance-analysis-S-P-500-2014-2017) : analysis of S&P 500 (2014-2017), Python, pandas
 - ⚠️ [Financial risk analytics](lien) : VaR / CVaR et backtesting
 
-## Compétences
+## Skills
 Python · pandas · SQL · Excel · scikit-learn
 
 ## Contact
