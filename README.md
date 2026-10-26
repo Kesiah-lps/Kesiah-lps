@@ -5,8 +5,8 @@ Currently building personal projects focused on financial data analysis, portfol
 
 Seeking a 2027 internship in Risk Management / Data Analysis in Luxembourg or France.
 ## Projects
-- 📊 [Portfolio performance analysis](https://github.com/Kesiah-lps/portfolio-performance-analysis-S-P-500-2014-2017) : analysis of S&P 500 (2014-2017), Python, pandas
-- ⚠️ [Financial risk analytics](lien) : VaR / CVaR et backtesting
+- 📊 [Portfolio performance/risk analysis](https://github.com/Kesiah-lps/portfolio-performance-analysis-S-P-500-2014-2017) : analysis of S&P 500 (2014-2017), VaR / CVaR and backtesting, Python, pandas
+- ⚠️ [Financial risk analytics](lien) : in progress ...
 
 ## Skills
 Python · pandas · SQL · Excel · scikit-learn
